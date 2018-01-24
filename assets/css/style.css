@@ -1,0 +1,30 @@
+body {
+    background: #eef1f5;
+}
+
+.head {
+    margin: auto;
+    width: 600px;
+    height: 175px;
+    padding: 9px;
+}
+
+.image1 {
+    width: 264px;
+    height: 141px;
+}
+
+.image2 {
+
+    width: 264px;
+    height: 103px;
+}
+table {
+    margin: auto;
+}
+.lien {
+    padding-top: 0;
+    padding-right: 18px;
+    padding-bottom: 9px;
+    padding-left: 18px;
+}
